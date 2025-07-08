@@ -1,1 +1,2 @@
 # SayyadMizan
+Information technology
